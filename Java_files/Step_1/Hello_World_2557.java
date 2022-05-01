@@ -1,4 +1,4 @@
-package Java_files.Step_1;
+package Step_1;
 
 public class Hello_World_2557 {
     public static void main(String[] args) {
