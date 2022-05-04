@@ -1,4 +1,4 @@
-package Step_1;
+package Step_2;
 import java.util.Scanner;
 
 public class Compare_two_numbers_1330 {
