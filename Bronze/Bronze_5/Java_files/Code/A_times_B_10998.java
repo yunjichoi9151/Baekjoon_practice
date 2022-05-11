@@ -1,4 +1,3 @@
-package Step_1;
 import java.util.Scanner;
 
 public class A_times_B_10998 {

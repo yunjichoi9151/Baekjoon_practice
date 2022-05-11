@@ -1,5 +1,3 @@
-package Step_1;
-
 public class sprout_25083 {
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");

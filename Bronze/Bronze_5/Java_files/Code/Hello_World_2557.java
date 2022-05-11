@@ -1,9 +1,7 @@
-package Step_1;
-
 public class Hello_World_2557 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
 
-// Baekjoonì—ì„œëŠ” í´ë˜ìŠ¤ëª…ì„ Mainìœ¼ë¡œ í•´ì£¼ì–´ì•¼ í•œë‹¤.
+// Baekjoon¿¡¼­´Â Å¬·¡½º¸íÀ» MainÀ¸·Î ÇØÁÖ¾î¾ß ÇÑ´Ù.

@@ -1,4 +1,3 @@
-package Step_1;
 import java.util.Scanner;
 
 public class Thai_Year_Conversion_18108 {

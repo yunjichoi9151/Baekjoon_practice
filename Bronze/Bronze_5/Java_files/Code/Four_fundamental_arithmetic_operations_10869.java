@@ -1,4 +1,3 @@
-package Step_1;
 import java.util.Scanner;
 
 public class Four_fundamental_arithmetic_operations_10869 {

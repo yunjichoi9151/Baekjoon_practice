@@ -1,7 +1,7 @@
 package Step_4;
 import java.util.Scanner;
 
-public class Average_1526 {
+public class Average_1546 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double sum = 0, m = 0;
