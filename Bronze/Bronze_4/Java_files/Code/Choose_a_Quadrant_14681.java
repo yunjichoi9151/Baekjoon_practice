@@ -1,4 +1,3 @@
-package Step_2;
 import java.util.Scanner;
 
 public class Choose_a_Quadrant_14681 {

@@ -1,4 +1,3 @@
-package Step_2;
 import java.util.Scanner;
 
 public class Oven_Clock_2525 {

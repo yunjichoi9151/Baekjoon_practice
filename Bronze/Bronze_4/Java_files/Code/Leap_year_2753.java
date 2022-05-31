@@ -1,4 +1,3 @@
-package Step_2;
 import java.util.Scanner;
 
 public class Leap_year_2753 {
